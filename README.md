@@ -8,7 +8,13 @@
   <img src="https://komarev.com/ghpvc/?username=Xu-Jack11&style=flat-square&color=blueviolet" alt="Profile Views"/>
 </p>
 
+<p align="center">
+  <a href="#-about-me">🇬🇧 English</a> | <a href="#-关于我">🇨🇳 简体中文</a>
+</p>
+
 -----
+
+## English
 
 ### 🧑‍💻 About Me
 
@@ -87,7 +93,86 @@ class JackXu:
 
 -----
 
-### 📊 GitHub Stats
+## 简体中文
+
+### 🧑‍💻 关于我
+
+```python
+class 徐俊华:
+    身份     = "浙大城市学院 · 计算机科学与技术 · 本科在读"
+    兴趣方向 = ["深度学习", "AI 编程", "构建解决实际问题的工具"]
+    技术栈   = ["Python", "C/C++", "PyTorch", "Next.js", "Docker"]
+    一句话   = "我相信 vibe coding 是未来 🎵"
+```
+
+- 🔭 正在深入探索**深度学习**和**数据挖掘**
+- 🛠 热衷于构建实用工具和有趣的创意项目
+- 🏆 活跃的竞赛选手（ICPC、CCPC、天梯赛等）
+- 🌱 保持学习，持续输出
+
+-----
+
+### 🛠 技术栈
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,pytorch,nextjs,linux,git,docker,vscode&theme=dark" />
+</p>
+
+|领域           |技能                           |
+|-------------|-----------------------------|
+|**编程语言**     |Python（熟练）、C/C++（熟练）、Java（熟悉）|
+|**AI / 机器学习**|PyTorch、深度学习、迁移学习、数据挖掘、提示词工程 |
+|**开发工具**     |Linux、Git、Docker、VS Code     |
+|**Web 开发**   |Next.js、AI 集成开发              |
+
+-----
+
+### 🏆 荣誉奖项
+
+|奖项                                |级别 |
+|----------------------------------|---|
+|🥈 第七届全球校园人工智能算法精英大赛 · 产业命题赛道      |国家级|
+|🥈 睿抗机器人开发者大赛（RAICOM）· 编程赛道        |国家级|
+|🥇 第九届中国高校计算机大赛 · 团体程序设计天梯赛（团队）    |国家级|
+|🥉 第九届中国高校计算机大赛 · 团体程序设计天梯赛（个人）    |国家级|
+|🏅 第49届 ICPC 国际大学生程序设计竞赛（沈阳站）      |国家级|
+|🥈 中国移动杯 · 第一届浙江省大学生人工智能竞赛 · 深度伪造检测|省级 |
+|🥉 浙江省第十九届”挑战杯”大学生课外学术科技作品竞赛       |省级 |
+
+-----
+
+### 💡 项目亮点
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🔍 电信诈骗实时深度伪造检测系统
+
+> 面向电信诈骗场景的深度伪造音频检测
+
+- **技术栈：** Python、PyTorch、WavLM、AASIST、CNN
+- 基于预训练模型 **WavLM** 进行迁移学习，添加自定义分类头
+- 取得 **F1 Score 0.79** → 🥈 省赛二等奖
+
+</td>
+<td width="50%">
+
+#### 🤖 AI 学习搭子系统
+
+> 基于 Web 的智能学习助手
+
+- **技术栈：** Next.js、AI 集成、提示词工程
+- AI 驱动的对话分析与自动学习总结
+- 个性化学习计划生成与进度追踪
+
+</td>
+</tr>
+</table>
+
+-----
+
+### 📊 GitHub 统计
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Xu-Jack11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -101,7 +186,8 @@ class JackXu:
 -----
 
 <p align="center">
-  <i>"Build things, break things, learn things."</i>
+  <i>"Build things, break things, learn things."</i><br/>
+  <i>"构建、打破、学习。"</i>
 </p>
 
 <p align="center">
