@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%91%8B+Hey%2C+I'm+Jack+Xu+(%E5%BE%90%E4%BF%8A%E5%8D%8E);AI+Enthusiast+%7C+Builder+%7C+Vibe+Coder+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%91%8B+Hey%2C+I'm+Jack+Xu+(须尽欢);AI+Enthusiast+%7C+Builder+%7C+Vibe+Coder+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -98,11 +98,11 @@ class JackXu:
 ### 🧑‍💻 关于我
 
 ```python
-class 徐俊华:
+class 须尽欢:
     身份     = "浙大城市学院 · 计算机科学与技术 · 本科在读"
     兴趣方向 = ["深度学习", "AI 编程", "构建解决实际问题的工具"]
     技术栈   = ["Python", "C/C++", "PyTorch", "Next.js", "Docker"]
-    一句话   = "我相信 vibe coding 是未来 🎵"
+    个性签名   = "我相信 vibe coding 是未来 🎵"
 ```
 
 - 🔭 正在深入探索**深度学习**和**数据挖掘**
